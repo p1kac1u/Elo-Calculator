@@ -33,3 +33,5 @@ nr1 = math.floor(nr1)
 nr2 = math.floor(nr2)
 print(nr1)
 print(nr2)
+
+print("Have a nice day. Goodbye")
