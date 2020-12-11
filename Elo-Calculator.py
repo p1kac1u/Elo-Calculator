@@ -1,4 +1,4 @@
-#Elo-Calculator.py
+#!/usr/bin/env python3
 
 '''
 MIT LICENSE
